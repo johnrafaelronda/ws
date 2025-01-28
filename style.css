@@ -1,0 +1,10 @@
+footer ul{
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+}
+
+footer ul li{
+    display: inline-block;
+}
+
