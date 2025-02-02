@@ -1,3 +1,42 @@
+body {
+    margin-right: 20px;
+    margin-top: 15px;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    background-image: url('https://wallpaperaccess.com/full/6234555.jpg');
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: auto;
+    content: '';
+    background-attachment: fixed;
+    color: white;
+    justify-content: center;border-radius: 10px;
+
+}
+
+hr{
+    width: 108%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 footer ul{
     text-align: center;
     text-decoration: none;
